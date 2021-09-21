@@ -1,0 +1,18 @@
+{
+  "text": {
+    "es": {
+      "navbar": { "links": ["Portfolio", "Sobre mi", "Contacto"] },
+      "home": {},
+      "portfolio": {},
+      "about": {},
+      "contact": {}
+    },
+    "en": {
+      "navbar": { "links": ["Portfolio", "About", "Contact"] },
+      "home": {},
+      "portfolio": {},
+      "about": {},
+      "contact": {}
+    }
+  }
+}
