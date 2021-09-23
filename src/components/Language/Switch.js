@@ -20,7 +20,11 @@ export const Switch = ({ close }) => {
         <IoLanguage />
       </div>
 
-      <div className="space-x-4 p-5 text-lg" onChange={handleLang}>
+      <div
+        className="space-x-4 p-5 text-lg"
+        onChange={handleLang}
+        onClick={close}
+      >
         <button onClick={handleLang} value="en" className="">
           ESP
         </button>

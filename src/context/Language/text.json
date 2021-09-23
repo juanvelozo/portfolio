@@ -2,14 +2,45 @@
   "text": {
     "es": {
       "navbar": { "links": ["Portfolio", "Sobre mi", "Contacto"] },
-      "home": {},
+      "home": {
+        "banner": {
+          "one": "Hola, soy",
+          "two": ["Juan Velozo", "Desarrollador Fullstack", "Diseñador Web"],
+          "three": "¡Me alegra mucho que hayas venido!"
+        },
+        "square": {
+          "skill": [
+            "Creativo",
+            "Autodidacta",
+            "Tenaz",
+            "Ambicioso",
+            "Trabajador"
+          ],
+          "skills": "nada"
+        }
+      },
       "portfolio": {},
       "about": {},
       "contact": {}
     },
     "en": {
       "navbar": { "links": ["Portfolio", "About", "Contact"] },
-      "home": {},
+      "home": {
+        "banner": {
+          "one": "Hi, I'm",
+          "two": ["Juan Velozo", "Fullstack Dev", "Web Designer"],
+          "three": "I'm so glad that you're here!"
+        },
+        "square": {
+          "skill": [
+            "Creative",
+            "Self Taught",
+            "Tenaicious",
+            "Ambitious",
+            "Hard Worker"
+          ]
+        }
+      },
       "portfolio": {},
       "about": {},
       "contact": {}
